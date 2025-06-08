@@ -1,0 +1,4 @@
+cryptography==41.0.7
+PyQt6==6.6.1
+PyQt6-Qt6==6.6.1
+PyQt6-sip==13.6.0
